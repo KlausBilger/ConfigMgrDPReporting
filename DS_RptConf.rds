@@ -2,7 +2,7 @@
 <RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DS_RptConf">
   <ConnectionProperties>
     <Extension>SQL</Extension>
-    <ConnectString>Data Source=W2K19SRVSCCM;Initial Catalog=ClientHealth</ConnectString>
+    <ConnectString>Data Source=%SERVERNAME%;Initial Catalog=ClientHealth</ConnectString>
     <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>66f45f66-2ea7-440d-b343-386e1512cea8</DataSourceID>
