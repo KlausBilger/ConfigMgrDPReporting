@@ -1,0 +1,4 @@
+Theme;BG_01;FG_01;BG_02;FG_02;BG_03;FG_03;BG_04;FG_04;BG_red;BG_green;BG_header;FG_header;BG_footer;FG_Footer;BG_Info;BG_State_OK;FG_State_OK;BG_State_Repair;FG_State_Repair;BG_State_Error;FG_State_Error
+Blue;white;blue;#b5b7bd;black;#dedfe0;black;#eeeeee;black;#F1701A;LightGreen;silver;blue;Tan;blue;yellow;#76933C;Black;#FFC000;Black;RED;Black
+Default;#757b8a;white;#b5b7bd;black;#dedfe0;black;#eeeeee;black;#F1701A;LightGreen;#757b8a;white;#757b8a;white;#ffe8a6;#76933C;Black;#FFC000;Black;RED;Black
+Red;white;red;#b5b7bd;red;#dedfe0;red;#eeeeee;black;red;green;white;red;white;red;#ffe8a6;#76933C;Black;#FFC000;Black;RED;Black
