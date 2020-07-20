@@ -46,6 +46,9 @@ The report display shows the following information in separate areas
 * Properties
 * Hard drive jams
 
+![Dashboard](SampleReport_DP Dashboard.jpg)
+
+
 ****
 &nbsp;
 &nbsp;
@@ -60,6 +63,8 @@ The report display shows the following information in separate areas
 * Status of package distribution
 * Properties
 * Hard drive jams
+
+![DP Details](SampleReport_DP Details.jpg)
 
 In addition, a lot of information about the software area is displayed here.
 
