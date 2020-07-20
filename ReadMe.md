@@ -46,7 +46,7 @@ The report display shows the following information in separate areas
 * Properties
 * Hard drive jams
 
-![Dashboard](SampleReport_DP Dashboard.jpg)
+[Dashboard](https://github.com/KlausBilger/ConfigMgrDPReporting/blob/master/SampleReport_DP%20Dashboard.jpg)
 
 
 ****
@@ -64,7 +64,7 @@ The report display shows the following information in separate areas
 * Properties
 * Hard drive jams
 
-![DP Details](SampleReport_DP Details.jpg)
+![DP Details](https://github.com/KlausBilger/ConfigMgrDPReporting/blob/master/SampleReport_DP%20Details.jpg)
 
 In addition, a lot of information about the software area is displayed here.
 
