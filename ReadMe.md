@@ -46,7 +46,7 @@ The report display shows the following information in separate areas
 * Properties
 * Hard drive jams
 
-[Dashboard](https://github.com/KlausBilger/ConfigMgrDPReporting/blob/master/SampleReport_DP%20Dashboard.jpg)
+![Dashboard](https://github.com/KlausBilger/ConfigMgrDPReporting/blob/master/SampleReport_DP%20Dashboard.jpg)
 
 
 ****
